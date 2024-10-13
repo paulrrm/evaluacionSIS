@@ -1,0 +1,1 @@
+import{j as o,N as r}from"./index-BGeZMLGK.js";const l=({children:a})=>{const t=localStorage.getItem("usuarioAVirtual");return console.log(t),t===null||t.length<10?o.jsx(r,{to:"/login"}):o.jsx(o.Fragment,{children:a})};export{l as default};
